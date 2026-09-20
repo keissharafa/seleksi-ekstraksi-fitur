@@ -1,0 +1,1471 @@
+BusinessTravel,Department,EducationField,JobRole,MaritalStatus,OverTime,Attrition
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,Yes,Yes
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Single,Yes,Yes
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,Yes,No
+Non-Travel,Research & Development,Medical,Laboratory Technician,Divorced,Yes,No
+Travel_Rarely,Sales,Life Sciences,Manager,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,Yes,No
+Non-Travel,Research & Development,Other,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Single,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,Yes
+Travel_Rarely,Research & Development,Other,Manager,Divorced,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,No
+Travel_Rarely,Sales,Marketing,Manager,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Other,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Representative,Married,No,Yes
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Research Scientist,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Married,Yes,Yes
+Travel_Rarely,Sales,Marketing,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,Yes
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Director,Married,No,Yes
+Non-Travel,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Single,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,Yes,Yes
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Single,Yes,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,Yes,No
+Non-Travel,Research & Development,Medical,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Research Director,Single,Yes,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Divorced,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Manager,Divorced,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,Yes
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Other,Research Director,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Director,Single,No,No
+Travel_Rarely,Human Resources,Medical,Human Resources,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Non-Travel,Research & Development,Medical,Research Scientist,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,Yes
+Travel_Frequently,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Divorced,Yes,No
+Travel_Frequently,Research & Development,Medical,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Director,Married,No,No
+Travel_Rarely,Sales,Other,Sales Executive,Married,No,No
+Non-Travel,Sales,Medical,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,No
+Non-Travel,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Divorced,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Single,Yes,Yes
+Travel_Rarely,Research & Development,Other,Research Scientist,Single,No,No
+Non-Travel,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Non-Travel,Human Resources,Human Resources,Manager,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Director,Married,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Frequently,Research & Development,Medical,Healthcare Representative,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Single,Yes,Yes
+Non-Travel,Human Resources,Human Resources,Manager,Single,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Medical,Manager,Single,No,No
+Travel_Frequently,Sales,Technical Degree,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Frequently,Sales,Life Sciences,Manager,Married,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Non-Travel,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,Yes,Yes
+Travel_Rarely,Research & Development,Other,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,Yes
+Travel_Rarely,Sales,Marketing,Sales Representative,Single,Yes,Yes
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,Yes,Yes
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Human Resources,Life Sciences,Human Resources,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Divorced,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Single,No,Yes
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Single,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Frequently,Sales,Medical,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manager,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Single,No,No
+Non-Travel,Research & Development,Technical Degree,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Frequently,Sales,Marketing,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Non-Travel,Research & Development,Medical,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Divorced,Yes,No
+Non-Travel,Research & Development,Medical,Research Scientist,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Manager,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Married,Yes,No
+Travel_Frequently,Sales,Technical Degree,Sales Representative,Single,No,Yes
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,No,No
+Non-Travel,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Single,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manager,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manager,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,Yes,Yes
+Non-Travel,Research & Development,Medical,Research Scientist,Divorced,No,No
+Non-Travel,Research & Development,Medical,Manager,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,No,No
+Non-Travel,Research & Development,Medical,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Manufacturing Director,Married,No,No
+Travel_Frequently,Research & Development,Technical Degree,Manufacturing Director,Married,No,No
+Non-Travel,Research & Development,Life Sciences,Manufacturing Director,Divorced,Yes,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,Yes,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,Yes,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,No,No
+Non-Travel,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,No,Yes
+Non-Travel,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Sales,Life Sciences,Manager,Single,Yes,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Single,No,Yes
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Single,No,Yes
+Non-Travel,Sales,Medical,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Frequently,Research & Development,Other,Research Director,Divorced,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,No,No
+Non-Travel,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Frequently,Sales,Marketing,Sales Representative,Divorced,No,No
+Travel_Frequently,Sales,Medical,Sales Executive,Married,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Manager,Married,No,No
+Travel_Rarely,Human Resources,Medical,Human Resources,Married,No,No
+Travel_Rarely,Sales,Medical,Manager,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,Yes,Yes
+Travel_Rarely,Sales,Marketing,Manager,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,Yes
+Non-Travel,Sales,Life Sciences,Manager,Single,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Non-Travel,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Other,Manager,Married,No,No
+Travel_Frequently,Research & Development,Medical,Research Director,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Frequently,Research & Development,Medical,Manufacturing Director,Divorced,No,Yes
+Travel_Frequently,Research & Development,Technical Degree,Healthcare Representative,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Director,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,No,Yes
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Non-Travel,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Single,No,No
+Travel_Rarely,Sales,Technical Degree,Manager,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Sales,Medical,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,No
+Non-Travel,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manager,Single,Yes,No
+Non-Travel,Research & Development,Life Sciences,Manager,Married,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Non-Travel,Research & Development,Medical,Research Director,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Manager,Divorced,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Divorced,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Married,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Divorced,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Director,Single,Yes,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Single,No,No
+Travel_Frequently,Sales,Marketing,Sales Representative,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,Yes,Yes
+Travel_Frequently,Research & Development,Medical,Research Scientist,Married,Yes,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Manager,Single,No,No
+Travel_Rarely,Sales,Medical,Sales Representative,Single,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Divorced,No,No
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,No,No
+Non-Travel,Research & Development,Life Sciences,Healthcare Representative,Divorced,Yes,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Married,Yes,No
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Manager,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manager,Married,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Healthcare Representative,Single,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,Yes,No
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Married,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Frequently,Research & Development,Medical,Manager,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,Yes,Yes
+Travel_Frequently,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Non-Travel,Sales,Marketing,Sales Executive,Married,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Rarely,Research & Development,Other,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,Yes,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Married,Yes,Yes
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Single,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Research & Development,Technical Degree,Manufacturing Director,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Single,Yes,No
+Travel_Frequently,Sales,Medical,Sales Representative,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Single,No,No
+Non-Travel,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Human Resources,Technical Degree,Human Resources,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Medical,Manager,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Divorced,Yes,No
+Non-Travel,Sales,Technical Degree,Sales Executive,Married,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Other,Healthcare Representative,Single,No,No
+Travel_Frequently,Sales,Technical Degree,Sales Representative,Single,Yes,Yes
+Non-Travel,Sales,Medical,Sales Executive,Single,No,No
+Travel_Frequently,Sales,Medical,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,No
+Non-Travel,Sales,Medical,Sales Representative,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Single,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Non-Travel,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Single,No,Yes
+Travel_Rarely,Research & Development,Technical Degree,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Single,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Other,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Non-Travel,Sales,Marketing,Sales Executive,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Manager,Single,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Sales,Technical Degree,Sales Representative,Married,No,No
+Travel_Frequently,Research & Development,Technical Degree,Research Scientist,Single,No,Yes
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Technical Degree,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Married,No,No
+Non-Travel,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Other,Healthcare Representative,Divorced,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,Yes,No
+Non-Travel,Research & Development,Medical,Research Scientist,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manager,Divorced,Yes,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,Yes
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manager,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manager,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Divorced,No,No
+Travel_Frequently,Research & Development,Technical Degree,Healthcare Representative,Married,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Representative,Single,Yes,Yes
+Travel_Frequently,Sales,Marketing,Sales Representative,Divorced,No,Yes
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Sales,Life Sciences,Manager,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Married,No,Yes
+Travel_Rarely,Human Resources,Technical Degree,Human Resources,Single,No,Yes
+Non-Travel,Sales,Other,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Marketing,Manager,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manager,Married,No,No
+Non-Travel,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Manager,Married,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,No,Yes
+Travel_Rarely,Sales,Marketing,Sales Representative,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Healthcare Representative,Married,No,Yes
+Travel_Frequently,Human Resources,Human Resources,Human Resources,Divorced,Yes,Yes
+Travel_Frequently,Research & Development,Other,Laboratory Technician,Married,No,No
+Non-Travel,Sales,Medical,Sales Executive,Single,No,No
+Travel_Frequently,Research & Development,Technical Degree,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Manager,Single,No,No
+Non-Travel,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,Yes,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,Yes,No
+Travel_Rarely,Sales,Other,Sales Executive,Married,No,No
+Travel_Frequently,Human Resources,Life Sciences,Human Resources,Divorced,Yes,Yes
+Travel_Rarely,Research & Development,Technical Degree,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Manager,Divorced,No,No
+Travel_Frequently,Sales,Marketing,Sales Representative,Single,Yes,Yes
+Non-Travel,Sales,Other,Sales Executive,Divorced,No,No
+Non-Travel,Research & Development,Other,Healthcare Representative,Single,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Divorced,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Single,Yes,Yes
+Travel_Rarely,Research & Development,Technical Degree,Manufacturing Director,Single,No,No
+Travel_Frequently,Research & Development,Medical,Healthcare Representative,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Manager,Married,No,No
+Non-Travel,Sales,Medical,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Divorced,Yes,No
+Non-Travel,Sales,Other,Sales Executive,Married,No,Yes
+Travel_Frequently,Sales,Medical,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Married,No,No
+Travel_Frequently,Human Resources,Medical,Manager,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Representative,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,Yes
+Travel_Frequently,Sales,Life Sciences,Sales Representative,Married,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Divorced,No,Yes
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Single,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Rarely,Research & Development,Other,Research Director,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Manager,Married,No,No
+Travel_Rarely,Human Resources,Life Sciences,Human Resources,Single,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Representative,Divorced,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Divorced,No,Yes
+Travel_Rarely,Sales,Technical Degree,Sales Representative,Single,No,No
+Travel_Rarely,Research & Development,Other,Manager,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Divorced,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Married,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Research & Development,Other,Manufacturing Director,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Human Resources,Medical,Human Resources,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,Yes,Yes
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Single,Yes,Yes
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Frequently,Sales,Medical,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,Yes
+Travel_Rarely,Research & Development,Technical Degree,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Frequently,Sales,Technical Degree,Sales Executive,Married,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Rarely,Human Resources,Human Resources,Manager,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Human Resources,Human Resources,Manager,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,Yes,Yes
+Non-Travel,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,Yes,No
+Non-Travel,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Frequently,Sales,Medical,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Single,No,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Divorced,Yes,Yes
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,Yes,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Non-Travel,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Manager,Married,No,No
+Travel_Rarely,Research & Development,Other,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Representative,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Single,Yes,Yes
+Travel_Rarely,Sales,Other,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Medical,Manager,Married,Yes,Yes
+Non-Travel,Sales,Life Sciences,Sales Executive,Single,No,No
+Non-Travel,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Single,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Divorced,Yes,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Single,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Frequently,Research & Development,Medical,Healthcare Representative,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manager,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,Yes
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Research Director,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,Yes
+Travel_Rarely,Research & Development,Other,Manager,Married,Yes,No
+Travel_Rarely,Research & Development,Other,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,Yes
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Single,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,Yes
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Director,Divorced,Yes,No
+Travel_Rarely,Research & Development,Other,Manufacturing Director,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,Yes,No
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Married,No,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Married,Yes,Yes
+Non-Travel,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Marketing,Manager,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Frequently,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Human Resources,Medical,Human Resources,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Single,Yes,No
+Travel_Rarely,Human Resources,Life Sciences,Human Resources,Married,No,No
+Travel_Rarely,Sales,Other,Sales Executive,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Divorced,Yes,Yes
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Married,No,No
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,No
+Travel_Rarely,Sales,Medical,Sales Representative,Divorced,Yes,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Manufacturing Director,Married,No,No
+Travel_Frequently,Sales,Medical,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,Yes,No
+Non-Travel,Sales,Medical,Sales Executive,Single,Yes,No
+Non-Travel,Research & Development,Life Sciences,Manager,Divorced,No,No
+Travel_Rarely,Human Resources,Life Sciences,Human Resources,Married,No,No
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Divorced,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Sales,Medical,Sales Representative,Single,No,Yes
+Travel_Rarely,Research & Development,Other,Research Scientist,Single,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Single,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Other,Research Scientist,Single,Yes,No
+Travel_Rarely,Research & Development,Technical Degree,Healthcare Representative,Divorced,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Non-Travel,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Other,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Director,Married,No,No
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Married,Yes,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Frequently,Sales,Medical,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,Yes,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Rarely,Sales,Other,Sales Representative,Single,Yes,Yes
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,Yes
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Frequently,Sales,Technical Degree,Sales Representative,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manager,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Single,No,Yes
+Travel_Rarely,Sales,Medical,Manager,Divorced,No,No
+Travel_Rarely,Sales,Other,Sales Executive,Divorced,No,No
+Non-Travel,Sales,Technical Degree,Sales Executive,Single,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,No
+Non-Travel,Sales,Life Sciences,Sales Executive,Single,Yes,Yes
+Travel_Frequently,Research & Development,Medical,Manufacturing Director,Divorced,Yes,No
+Non-Travel,Sales,Technical Degree,Sales Executive,Divorced,No,No
+Non-Travel,Research & Development,Medical,Research Scientist,Single,Yes,Yes
+Non-Travel,Sales,Life Sciences,Manager,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Divorced,No,No
+Travel_Frequently,Research & Development,Other,Healthcare Representative,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Research Director,Divorced,No,No
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Married,No,No
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Divorced,Yes,Yes
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Non-Travel,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,Yes,Yes
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Single,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Manager,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,Yes,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,Yes
+Travel_Frequently,Research & Development,Medical,Healthcare Representative,Married,Yes,No
+Non-Travel,Research & Development,Life Sciences,Research Director,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,Yes,No
+Non-Travel,Sales,Medical,Sales Executive,Single,No,Yes
+Travel_Rarely,Sales,Marketing,Manager,Married,No,Yes
+Travel_Rarely,Sales,Medical,Sales Executive,Married,Yes,No
+Non-Travel,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,Yes
+Travel_Frequently,Research & Development,Medical,Manufacturing Director,Single,Yes,No
+Non-Travel,Sales,Life Sciences,Sales Representative,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Manager,Married,No,No
+Non-Travel,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Sales,Technical Degree,Manager,Married,Yes,No
+Travel_Rarely,Human Resources,Medical,Human Resources,Single,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Divorced,No,Yes
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Married,Yes,Yes
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Married,Yes,No
+Travel_Rarely,Sales,Medical,Sales Representative,Married,No,No
+Travel_Frequently,Research & Development,Other,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Married,Yes,No
+Travel_Rarely,Research & Development,Other,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Single,No,No
+Non-Travel,Research & Development,Medical,Manager,Single,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Divorced,No,No
+Travel_Frequently,Sales,Marketing,Sales Representative,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,Yes
+Non-Travel,Research & Development,Technical Degree,Healthcare Representative,Single,No,Yes
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Other,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Healthcare Representative,Married,No,No
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Other,Research Scientist,Single,No,No
+Travel_Rarely,Human Resources,Medical,Human Resources,Married,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Single,Yes,Yes
+Travel_Frequently,Research & Development,Medical,Research Scientist,Single,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Frequently,Research & Development,Life Sciences,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Married,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,No,Yes
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Manager,Married,No,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Divorced,No,Yes
+Travel_Frequently,Sales,Other,Sales Executive,Single,Yes,Yes
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Married,No,No
+Non-Travel,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Non-Travel,Research & Development,Medical,Manager,Single,No,No
+Non-Travel,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Manager,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,Yes
+Travel_Rarely,Research & Development,Medical,Research Director,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Single,Yes,No
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Non-Travel,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,Yes,No
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Divorced,Yes,No
+Non-Travel,Research & Development,Medical,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Married,No,Yes
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Human Resources,Technical Degree,Human Resources,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,Yes
+Travel_Frequently,Research & Development,Medical,Research Director,Single,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Single,Yes,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Travel_Frequently,Research & Development,Medical,Healthcare Representative,Single,No,No
+Travel_Frequently,Research & Development,Other,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,Yes
+Non-Travel,Sales,Life Sciences,Sales Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Technical Degree,Manager,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Manager,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Married,Yes,Yes
+Travel_Rarely,Sales,Marketing,Manager,Married,No,No
+Non-Travel,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Married,No,No
+Non-Travel,Research & Development,Life Sciences,Research Scientist,Divorced,No,Yes
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,No,No
+Travel_Frequently,Sales,Medical,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Medical,Manager,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,Yes
+Travel_Frequently,Sales,Medical,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Other,Research Scientist,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Manufacturing Director,Divorced,No,No
+Non-Travel,Human Resources,Medical,Human Resources,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,Yes,No
+Travel_Frequently,Research & Development,Other,Laboratory Technician,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Single,Yes,No
+Travel_Rarely,Research & Development,Technical Degree,Manufacturing Director,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Research Director,Married,Yes,No
+Non-Travel,Sales,Marketing,Sales Executive,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Non-Travel,Research & Development,Medical,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manager,Married,No,No
+Travel_Frequently,Research & Development,Technical Degree,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Divorced,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Marketing,Manager,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Representative,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,Yes,No
+Travel_Rarely,Sales,Marketing,Manager,Single,Yes,Yes
+Non-Travel,Research & Development,Medical,Healthcare Representative,Divorced,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Sales,Marketing,Manager,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,Yes,No
+Travel_Frequently,Sales,Life Sciences,Manager,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Single,No,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Manager,Divorced,No,No
+Travel_Frequently,Human Resources,Life Sciences,Human Resources,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,Yes,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,Yes
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,No,No
+Non-Travel,Research & Development,Medical,Manufacturing Director,Single,Yes,No
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Divorced,Yes,Yes
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Medical,Manager,Single,No,No
+Travel_Rarely,Research & Development,Medical,Manager,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,Yes
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,Yes
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Healthcare Representative,Married,No,No
+Travel_Rarely,Human Resources,Life Sciences,Human Resources,Single,No,No
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,Yes,Yes
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Manager,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Non-Travel,Sales,Life Sciences,Sales Executive,Divorced,Yes,No
+Non-Travel,Sales,Medical,Sales Executive,Single,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Representative,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,Yes
+Non-Travel,Research & Development,Life Sciences,Manager,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Manager,Married,No,No
+Travel_Rarely,Human Resources,Life Sciences,Manager,Single,No,No
+Non-Travel,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Single,Yes,No
+Travel_Rarely,Human Resources,Life Sciences,Manager,Divorced,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Rarely,Sales,Medical,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Manufacturing Director,Single,No,No
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,Yes,No
+Non-Travel,Research & Development,Technical Degree,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Representative,Single,No,Yes
+Travel_Frequently,Sales,Marketing,Sales Executive,Married,Yes,Yes
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Technical Degree,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,Yes,Yes
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,Yes,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,Yes,No
+Non-Travel,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Medical,Manufacturing Director,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Human Resources,Human Resources,Manager,Married,No,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Single,No,No
+Travel_Rarely,Human Resources,Other,Human Resources,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Single,No,Yes
+Travel_Frequently,Research & Development,Other,Healthcare Representative,Single,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Research Director,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Director,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,Yes,No
+Travel_Frequently,Sales,Life Sciences,Sales Representative,Single,No,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Single,No,No
+Travel_Frequently,Research & Development,Other,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Married,No,Yes
+Non-Travel,Research & Development,Technical Degree,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,No
+Non-Travel,Research & Development,Other,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,Yes
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Single,Yes,Yes
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Single,No,Yes
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Divorced,Yes,No
+Travel_Rarely,Human Resources,Medical,Human Resources,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,Yes
+Travel_Rarely,Research & Development,Technical Degree,Manufacturing Director,Married,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Human Resources,Technical Degree,Human Resources,Married,No,Yes
+Non-Travel,Research & Development,Medical,Research Director,Divorced,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,No
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Healthcare Representative,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Frequently,Sales,Medical,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Other,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Married,No,No
+Non-Travel,Research & Development,Technical Degree,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Frequently,Research & Development,Medical,Research Director,Divorced,No,No
+Travel_Frequently,Sales,Technical Degree,Sales Representative,Married,No,Yes
+Travel_Frequently,Sales,Technical Degree,Sales Executive,Single,No,Yes
+Travel_Rarely,Sales,Medical,Sales Executive,Single,Yes,Yes
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Married,No,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,Yes,Yes
+Non-Travel,Sales,Life Sciences,Sales Representative,Married,No,No
+Travel_Frequently,Research & Development,Medical,Manufacturing Director,Single,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,No,No
+Travel_Rarely,Human Resources,Life Sciences,Human Resources,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Single,Yes,No
+Travel_Rarely,Research & Development,Medical,Manager,Single,No,No
+Travel_Frequently,Research & Development,Medical,Manager,Divorced,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Single,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Manager,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Married,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Single,No,Yes
+Travel_Frequently,Research & Development,Medical,Research Director,Single,Yes,No
+Travel_Rarely,Sales,Technical Degree,Sales Representative,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Other,Healthcare Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Human Resources,Medical,Manager,Single,Yes,No
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Divorced,No,No
+Non-Travel,Research & Development,Life Sciences,Healthcare Representative,Divorced,Yes,No
+Travel_Rarely,Research & Development,Technical Degree,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Single,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,Yes
+Travel_Frequently,Human Resources,Human Resources,Human Resources,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,Yes,Yes
+Travel_Rarely,Research & Development,Technical Degree,Manufacturing Director,Married,No,Yes
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,No,Yes
+Non-Travel,Research & Development,Technical Degree,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Other,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Sales,Marketing,Manager,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,Yes,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Single,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Sales,Marketing,Manager,Married,Yes,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Research & Development,Other,Manager,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Frequently,Research & Development,Technical Degree,Healthcare Representative,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Manager,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,Yes,Yes
+Non-Travel,Research & Development,Other,Research Scientist,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Research & Development,Other,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,Yes,No
+Non-Travel,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Frequently,Sales,Other,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Frequently,Sales,Medical,Sales Representative,Single,Yes,Yes
+Travel_Rarely,Human Resources,Life Sciences,Manager,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Non-Travel,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Frequently,Research & Development,Medical,Manufacturing Director,Single,No,No
+Travel_Rarely,Research & Development,Other,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,No,Yes
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,Yes,No
+Travel_Frequently,Human Resources,Human Resources,Human Resources,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Manager,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Divorced,Yes,Yes
+Travel_Frequently,Research & Development,Technical Degree,Research Scientist,Single,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,Yes,Yes
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Other,Research Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Divorced,No,No
+Travel_Rarely,Sales,Medical,Sales Representative,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,Yes,No
+Non-Travel,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Manager,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Frequently,Sales,Other,Sales Executive,Single,Yes,Yes
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,Yes,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Manager,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manager,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Single,No,No
+Non-Travel,Sales,Life Sciences,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Rarely,Human Resources,Life Sciences,Human Resources,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,No
+Travel_Frequently,Sales,Medical,Sales Representative,Married,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,Yes
+Non-Travel,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Frequently,Sales,Medical,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Divorced,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Single,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Single,No,No
+Non-Travel,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Married,No,Yes
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Married,No,Yes
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Director,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Non-Travel,Human Resources,Human Resources,Human Resources,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Non-Travel,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,Yes,Yes
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,Yes
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Frequently,Research & Development,Technical Degree,Manufacturing Director,Single,No,No
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Medical,Manager,Single,No,No
+Travel_Rarely,Human Resources,Life Sciences,Human Resources,Married,No,No
+Travel_Frequently,Research & Development,Technical Degree,Research Scientist,Single,No,No
+Travel_Frequently,Human Resources,Medical,Human Resources,Married,No,No
+Travel_Frequently,Human Resources,Human Resources,Human Resources,Divorced,No,Yes
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Single,No,Yes
+Travel_Frequently,Research & Development,Life Sciences,Healthcare Representative,Single,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,No
+Non-Travel,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,Yes,Yes
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,Yes
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Non-Travel,Research & Development,Technical Degree,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,Yes,No
+Travel_Frequently,Research & Development,Technical Degree,Research Scientist,Married,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Married,No,No
+Non-Travel,Research & Development,Technical Degree,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Non-Travel,Sales,Life Sciences,Sales Executive,Divorced,Yes,No
+Non-Travel,Research & Development,Medical,Manufacturing Director,Married,Yes,No
+Travel_Rarely,Human Resources,Life Sciences,Human Resources,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Single,No,Yes
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,Yes,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Manager,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,Yes,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Divorced,Yes,Yes
+Travel_Rarely,Human Resources,Other,Human Resources,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Single,No,No
+Non-Travel,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,No
+Non-Travel,Research & Development,Medical,Manufacturing Director,Divorced,No,No
+Non-Travel,Human Resources,Human Resources,Human Resources,Divorced,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Married,No,Yes
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Single,No,Yes
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Divorced,No,No
+Non-Travel,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Single,No,No
+Travel_Rarely,Human Resources,Medical,Human Resources,Married,Yes,Yes
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Married,No,No
+Non-Travel,Sales,Medical,Manager,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Representative,Married,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Director,Married,Yes,No
+Non-Travel,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Married,No,Yes
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Divorced,Yes,Yes
+Non-Travel,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Other,Research Scientist,Married,Yes,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Laboratory Technician,Single,Yes,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Single,No,No
+Non-Travel,Research & Development,Technical Degree,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Non-Travel,Human Resources,Life Sciences,Human Resources,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,Yes,Yes
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Divorced,No,No
+Travel_Rarely,Sales,Medical,Sales Representative,Married,No,No
+Travel_Rarely,Human Resources,Medical,Human Resources,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manager,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,Yes
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Other,Research Scientist,Divorced,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Representative,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Representative,Single,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Sales,Technical Degree,Sales Executive,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,No
+Travel_Rarely,Research & Development,Other,Manufacturing Director,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Frequently,Human Resources,Human Resources,Human Resources,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manager,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Single,No,No
+Travel_Frequently,Research & Development,Medical,Manager,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Non-Travel,Research & Development,Technical Degree,Research Scientist,Married,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Divorced,Yes,No
+Travel_Rarely,Sales,Medical,Sales Executive,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Travel_Frequently,Research & Development,Other,Laboratory Technician,Married,No,No
+Travel_Frequently,Research & Development,Medical,Healthcare Representative,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Married,Yes,No
+Travel_Frequently,Sales,Technical Degree,Sales Representative,Single,No,Yes
+Non-Travel,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Married,No,No
+Travel_Frequently,Research & Development,Other,Research Scientist,Married,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,Yes,Yes
+Non-Travel,Research & Development,Technical Degree,Research Scientist,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Married,No,No
+Travel_Frequently,Research & Development,Medical,Research Scientist,Divorced,Yes,No
+Travel_Rarely,Sales,Life Sciences,Manager,Married,Yes,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Director,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,Yes,No
+Travel_Frequently,Human Resources,Human Resources,Human Resources,Married,No,Yes
+Travel_Rarely,Sales,Medical,Sales Executive,Married,No,No
+Non-Travel,Research & Development,Medical,Research Scientist,Single,No,No
+Non-Travel,Research & Development,Medical,Research Scientist,Divorced,Yes,No
+Non-Travel,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Rarely,Sales,Medical,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Non-Travel,Research & Development,Medical,Healthcare Representative,Divorced,No,No
+Travel_Frequently,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Divorced,No,Yes
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Single,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Single,No,No
+Travel_Frequently,Sales,Marketing,Sales Executive,Married,Yes,Yes
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Married,No,No
+Travel_Frequently,Human Resources,Other,Human Resources,Married,Yes,No
+Travel_Rarely,Human Resources,Human Resources,Manager,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Divorced,Yes,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Single,No,No
+Non-Travel,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Non-Travel,Research & Development,Medical,Research Director,Married,No,No
+Travel_Rarely,Research & Development,Medical,Manufacturing Director,Single,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Healthcare Representative,Single,No,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Single,No,No
+Travel_Frequently,Research & Development,Technical Degree,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Human Resources,Human Resources,Human Resources,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Divorced,Yes,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Single,No,No
+Non-Travel,Research & Development,Medical,Laboratory Technician,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Representative,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Divorced,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Non-Travel,Research & Development,Medical,Research Director,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Laboratory Technician,Married,No,No
+Travel_Rarely,Sales,Medical,Sales Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Rarely,Research & Development,Medical,Research Director,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Director,Married,Yes,No
+Travel_Rarely,Sales,Other,Sales Executive,Divorced,Yes,No
+Non-Travel,Sales,Life Sciences,Sales Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,Yes,No
+Travel_Rarely,Sales,Medical,Sales Representative,Single,Yes,No
+Non-Travel,Research & Development,Life Sciences,Manager,Single,No,No
+Travel_Frequently,Sales,Marketing,Sales Representative,Married,No,Yes
+Travel_Rarely,Sales,Medical,Sales Executive,Married,No,No
+Travel_Frequently,Research & Development,Life Sciences,Manufacturing Director,Divorced,No,No
+Non-Travel,Research & Development,Life Sciences,Healthcare Representative,Divorced,No,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,Yes,Yes
+Travel_Rarely,Research & Development,Life Sciences,Manager,Married,No,No
+Travel_Rarely,Research & Development,Technical Degree,Laboratory Technician,Married,No,Yes
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Non-Travel,Sales,Marketing,Sales Executive,Divorced,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Divorced,No,No
+Travel_Rarely,Research & Development,Technical Degree,Research Scientist,Single,No,No
+Travel_Rarely,Human Resources,Life Sciences,Human Resources,Single,Yes,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Married,No,No
+Travel_Frequently,Sales,Life Sciences,Sales Executive,Divorced,No,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Travel_Rarely,Sales,Life Sciences,Sales Executive,Single,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Single,No,No
+Travel_Frequently,Research & Development,Life Sciences,Healthcare Representative,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Research Scientist,Married,No,No
+Travel_Rarely,Research & Development,Other,Laboratory Technician,Married,Yes,No
+Travel_Rarely,Research & Development,Medical,Research Scientist,Single,No,No
+Travel_Rarely,Sales,Marketing,Sales Executive,Divorced,Yes,Yes
+Travel_Rarely,Sales,Marketing,Sales Executive,Married,No,No
+Non-Travel,Research & Development,Medical,Manufacturing Director,Single,No,No
+Travel_Rarely,Sales,Other,Sales Representative,Single,No,No
+Travel_Frequently,Research & Development,Medical,Laboratory Technician,Married,No,No
+Travel_Rarely,Research & Development,Medical,Healthcare Representative,Married,No,No
+Travel_Rarely,Research & Development,Life Sciences,Manufacturing Director,Married,Yes,No
+Travel_Frequently,Sales,Medical,Sales Executive,Married,No,No
+Travel_Rarely,Research & Development,Medical,Laboratory Technician,Married,No,No
